@@ -12,4 +12,4 @@ learn basic ES6 javascript with the title makes a simple calculator :)
 ===================================================================================================
 ==========================================
 
-
+https://riosahid25.github.io/calculatorProjectJs/
